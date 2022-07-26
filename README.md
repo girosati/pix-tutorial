@@ -1,4 +1,5 @@
-# TESTE TÉCNICO - VAGA TECHNICAL WRITER
+<h1 align="center">TESTE TÉCNICO</h1>
+<p align="center"><i>VAGA TECHNICAL WRITER</i></p>
 
 ## Contexto
 
